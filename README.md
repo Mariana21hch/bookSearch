@@ -72,10 +72,10 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## Visual:
 
-![terminal](./assets/add%20emploee.PNG)
-![terminal index](./assets/index%20snip.PNG)
+![]()
+![]()
 
-Youtube: https://studio.youtube.com/video/ovgPVrc4TTg/edit
+Youtube: 
 ---
 
 ## Installation:
@@ -83,7 +83,7 @@ Youtube: https://studio.youtube.com/video/ovgPVrc4TTg/edit
 2 Open project directory, then npm install to install all required dependencies
 
 
-    Clone the repo: https://github.com/Mariana21hch/EmployeeTracker
+    Clone the repo: https://github.com/Mariana21hch/bookSearch
 
 
 ---
