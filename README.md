@@ -72,7 +72,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## Visual:
 
-![]()
+![heroku](./img/heroku.PNG)
 ![]()
 
 Youtube: 
